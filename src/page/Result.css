@@ -1,0 +1,41 @@
+.result-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(123, 218, 114);
+  }
+  
+  .winner-card {
+    background-color: #b3da58;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+  }
+  
+  .winner-image {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .winner-card h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+  }
+  
+  .winner-card p {
+    font-size: 1.2em;
+    margin: 5px 0;
+  }
+  
+  .congratulations {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+    font-weight: bold;
+  }
+  

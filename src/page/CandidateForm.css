@@ -1,0 +1,49 @@
+.container3{
+    width: 350px;
+    height: 94vh;
+    Margin: 0 auto;
+    Padding: 20px;
+    Border: 1px solid #ccc;
+    Border-radius: 5px;
+    Background-color: #6cc6d6;
+    box-shadow: 10px 10px 10px black;
+  }
+  
+  .form-group3 {
+    Margin-bottom: 15px;
+  }
+  
+  Label {
+    Display: block;
+    Font-weight: bold;
+    padding: 2px;
+  }
+  
+  Input[type=”text”] {
+    Width: 100%;
+    Padding: 2px;
+    Font-size: 16px;
+    Border: 1px solid #ccc;
+    Border-radius: 4px;
+  }
+  #reason{
+    width: 100%;
+  }
+
+  
+  #sub {
+    Background-color: #2c0ddb;
+    text-align: center;
+    Padding: 10px;
+    Border: none;
+    Border-radius: 4px;
+    Cursor: pointer;
+    Font-size: 16px;
+    width: 100%;
+    color: antiquewhite;
+  }
+  
+  Button:hover {
+    Background-color: #17ace7;
+  }
+    

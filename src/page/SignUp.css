@@ -1,0 +1,50 @@
+#signup-container {
+    width: 350px;
+    height: 85vh;
+    Margin: 0 auto;
+    Padding: 20px;
+    Border: 1px solid #1a0909;
+    Border-radius: 5px;
+    Background-color: #6cc6d6;
+    box-shadow: 10px 10px 10px black;
+  }
+  h2{
+    font-size: large;
+    text-align: center;
+    color: blue;
+  }
+  
+  .form-group4 {
+    Margin-bottom: 15px;
+  }
+  
+  Label {
+    Font-weight: bold;
+  }
+  
+  Input[type="text"],
+  Input[type="password"] {
+    Width: 100%;
+    Padding: 8px;
+    Border: 1px solid #e0d7d7;
+    Border-radius: 10px;
+  }
+  
+  #submit {
+    Display: block;
+    Width: 100%;
+    Padding: 10px;
+    Background-color: #2b1edf;
+    color: #e0d7d7;
+    
+    
+    Border-radius: 10px;
+    Cursor: pointer;
+  }
+  
+  Button:hover {
+    Background-color: #45a049;
+  }
+  
+  
+  
